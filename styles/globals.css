@@ -1,0 +1,50 @@
+a { cursor: pointer; }
+.app-container {
+    min-height: 650px;
+}
+.btn-delete-user {
+    width: 40px;
+    text-align: center;
+    box-sizing: content-box;
+}
+.home-header{
+    font-size: 30px;
+    padding: 10px;
+}
+
+.home-container{
+    display: flex;
+    justify-content: center;
+}
+.home-content-container{
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px dotted black;
+    margin: 10px;
+}
+.home-form{
+    display: flex;
+}
+.home-input{
+    margin-right: 5px;
+    padding: 5px 16px;
+}
+.home-button{
+    font-size: 16px;
+    padding: 7px 16px;
+    width: 150px;
+}
+.home-droppable{
+    padding: 16px;
+    width: 370px;
+    min-height: 500px;
+}
+.home-draggable{
+    padding: 16px;
+    margin: 0 0 16px 0;
+    min-height: 50px;
+    color: white;
+    font-size: 16px;
+}

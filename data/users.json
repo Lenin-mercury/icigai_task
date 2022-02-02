@@ -1,0 +1,58 @@
+[
+    {
+        "email": "lenin@gmail.com",
+        "id": 1,
+        "publicItems": [],
+        "privateItems": []
+    },
+    {
+        "email": "user_a@system.com",
+        "id": 2,
+        "dateCreated": "2022-01-29T21:44:01.754Z",
+        "dateUpdated": "2022-02-01T19:16:44.161Z",
+        "publicItems": [
+            {
+                "id": "7a249c86-e9c9-46ed-858a-bb13caf5e152",
+                "value": "Public Dom 2",
+                "isprivate": false,
+                "dateCreated": "2022-02-02T14:32:24.361Z"
+            }
+        ],
+        "privateItems": [
+            {
+                "id": "c3a992a2-915e-40c2-a289-bd80a1f515f1",
+                "value": "user a private",
+                "isprivate": true,
+                "dateCreated": "2022-02-02T14:11:05.743Z"
+            }
+        ]
+    },
+    {
+        "email": "user_b@system.com",
+        "id": 3,
+        "dateCreated": "2022-01-29T21:44:01.754Z",
+        "dateUpdated": "2022-02-01T19:16:44.161Z",
+        "publicItems": [
+            {
+                "id": "443c9ffd-a428-4afe-b90b-ebbf467c09e5",
+                "value": "Public Dom 1",
+                "isprivate": false,
+                "dateCreated": "2022-02-02T14:10:05.337Z"
+            }
+        ],
+        "privateItems": [
+            {
+                "id": "5a92c897-1f75-4cb3-9428-296e26e113dc",
+                "value": "test 1",
+                "isprivate": true,
+                "dateCreated": "2022-02-02T14:10:07.967Z"
+            },
+            {
+                "id": "c3a992a2-915e-40c2-a289-bd80a1f515f1",
+                "value": "user b private",
+                "isprivate": true,
+                "dateCreated": "2022-02-02T14:11:05.743Z"
+            }
+        ]
+    }
+]
